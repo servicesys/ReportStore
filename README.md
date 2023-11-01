@@ -7,7 +7,6 @@ The platform offers a secure and efficient way to organize, store, and retrieve 
 ## Key Features:
 - Centralized Data Repository: Store and manage all report information, documents, and related data in one centralized location.
 - Secure Access Control: Implement robust access control measures to restrict data access to authorized personnel only.
-- Version Control: Keep track of different versions of reports and documents, ensuring transparency and traceability.
 - Document Management: Efficiently organize, categorize, and label documents for easy retrieval.
 - Audit Trail: Maintain a detailed audit trail of all activities and interactions within the system.
 - Compliance and Reporting: Generate compliance reports and provide insights into audit element performance.
