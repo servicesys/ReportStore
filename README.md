@@ -11,3 +11,9 @@ The platform offers a secure and efficient way to organize, store, and retrieve 
 - Audit Trail: Maintain a detailed audit trail of all activities and interactions within the system.
 - Compliance and Reporting: Generate compliance reports and provide insights into audit element performance.
 - Notifications and Alerts: Receive notifications and alerts for upcoming audits, report updates, and other critical events.
+
+## Ref 
+- A Process Management Data Model
+   https://vertabelo.com/blog/managing-employees-and-resources-a-process-management-data-model/
+- A Database Model for a MOOC Platform (EAD) 
+   https://vertabelo.com/blog/a-database-model-for-a-mooc-platform/
